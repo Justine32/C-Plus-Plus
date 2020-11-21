@@ -21,7 +21,7 @@ class queue {
         node<Kind> *current = queueFront;
         std::cout << "Front --> ";
         while (current != NULL) {
-            std::cout << current->data << "    ";
+            std::cout << current->data << "  ";
             current = current->next;
         }
         std::cout << std::endl;

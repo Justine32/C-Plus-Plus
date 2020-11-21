@@ -13,7 +13,7 @@ What is Swap?
 
 Swap in the software means that two variables are displaced.
 An additional variable is required for this operation. x = 5, y = 10.
-We want x = 10, y = 5. Here we create the most variable to do it.
+We want x = 10, y = 5. Here we create the most variable to do it
 
 int z;
 z = x;
@@ -24,7 +24,6 @@ The above process is a typical displacement process.
 When x assigns the value to x, the old value of x is lost.
 That's why we created a variable z to create the first value of the value of x,
 and finally, we have assigned to y.
-
 Bubble Sort Algorithm Analysis (Best Case - Worst Case - Average Case)
 
 Bubble Sort Worst Case Performance is O (n²). Why is that? Because if you
